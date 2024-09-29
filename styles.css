@@ -21,61 +21,6 @@ header {
 }
 
 
-
-.sticker-groovy {
-    position: absolute;
-    top: 23%;  
-    left: 0px; 
-    transform: translateY(-50%);
-    width: 400px; 
-    opacity: 0.9; 
-}
-
-.sticker-groovy2 {
-    position: absolute;
-    top: 23%;  
-    left:-80px; 
-    transform: translateY(-50%);
-    width: 400px; 
-    opacity: 0.9; 
-}
-
-.sticker-groovy3 {
-    position: absolute;
-    top: 23%;  
-    left:-160px; 
-    transform: translateY(-50%);
-    width: 400px; 
-    opacity: 0.9; 
-}
-
-.sticker-disco {
-    position: absolute;
-    top: 23%; 
-    right: 20px; 
-    transform: translateY(-50%);
-    width: 250px; 
-    opacity: 0.9; 
-}
-
-.sticker-estrelagroovy {
-    position: absolute;
-    top: 140%;  
-    left:10px; 
-    transform: translateY(-50%);
-    width: 250px; 
-    opacity: 0.9; 
-}
-
-.sticker-coracao {
-    position: absolute;
-    top: 140%;  
-    right:10px; 
-    transform: translateY(-50%);
-    width: 250px; 
-    opacity: 0.9; 
-}
-
 nav ul {
     list-style-type: none;
 }
