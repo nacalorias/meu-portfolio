@@ -76,28 +76,6 @@ header {
     opacity: 0.9; 
 }
 
-.sticker-groovy,
-.sticker-groovy2,
-.sticker-groovy3,
-.sticker-disco,
-.sticker-estrelagroovy,
-.sticker-coracao {
-    max-width: 100%; 
-    height: auto; 
-    
-}
-
-
-@media (max-width: 768px) {
-    .sticker-groovy,
-    .sticker-groovy2,
-    .sticker-groovy3,
-    .sticker-disco,
-    .sticker-estrelagroovy,
-    .sticker-coracao {
-        display: none; 
-}
-
 nav ul {
     list-style-type: none;
 }
